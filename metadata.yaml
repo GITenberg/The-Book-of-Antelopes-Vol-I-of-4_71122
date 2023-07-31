@@ -1,5 +1,8 @@
 _repo: The-Book-of-Antelopes-Vol-I-of-4_71122
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71122-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Sclater, Philip Lutley
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '56083'
     url: http://www.gutenberg.org/2009/agents/56083
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71122#The-Book-of-Antelopes-Vol-I-of-4
 gutenberg_issued: '2023-07-05'
 identifiers:
   gutenberg: '71122'
